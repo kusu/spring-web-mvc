@@ -1,0 +1,1 @@
+This project is a start up project for creating web applications using spring framework.
